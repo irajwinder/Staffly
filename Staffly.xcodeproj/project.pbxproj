@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A265CBF02ACD80E60034C878 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = A265CBEF2ACD80E60034C878 /* README.md */; };
 		A2C119CD2ACD684500C3BB32 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2C119CC2ACD684500C3BB32 /* AppDelegate.swift */; };
 		A2C119CF2ACD684500C3BB32 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2C119CE2ACD684500C3BB32 /* SceneDelegate.swift */; };
 		A2C119D12ACD684500C3BB32 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2C119D02ACD684500C3BB32 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A265CBEF2ACD80E60034C878 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 		A2C119C92ACD684500C3BB32 /* Staffly.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Staffly.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A2C119CC2ACD684500C3BB32 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A2C119CE2ACD684500C3BB32 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -43,6 +45,7 @@
 			isa = PBXGroup;
 			children = (
 				A2C119CB2ACD684500C3BB32 /* Staffly */,
+				A265CBEF2ACD80E60034C878 /* README.md */,
 				A2C119CA2ACD684500C3BB32 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -130,6 +133,7 @@
 			files = (
 				A2C119DC2ACD684700C3BB32 /* LaunchScreen.storyboard in Resources */,
 				A2C119D92ACD684700C3BB32 /* Assets.xcassets in Resources */,
+				A265CBF02ACD80E60034C878 /* README.md in Resources */,
 				A2C119D42ACD684500C3BB32 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
