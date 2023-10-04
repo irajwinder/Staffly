@@ -17,7 +17,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="logo" translatesAutoresizingMaskIntoConstraints="NO" id="Wzq-dk-plc">
-                                <rect key="frame" x="23.326359832636854" y="309.00000000001592" width="346.00000000000023" height="203.00000000002456"/>
+                                <rect key="frame" x="23" y="309" width="346" height="252"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" name="AccentColor"/>
                                 <color key="tintColor" name="launch-screen-background"/>
@@ -32,6 +32,7 @@
             <point key="canvasLocation" x="52.671755725190835" y="374.64788732394368"/>
         </scene>
     </scenes>
+    <color key="tintColor" name="launch-screen-background"/>
     <resources>
         <image name="logo" width="1024" height="1024"/>
         <namedColor name="AccentColor">
